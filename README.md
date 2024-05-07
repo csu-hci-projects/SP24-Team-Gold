@@ -7,4 +7,5 @@
 
 # How To Run Experiment:
 In order to run this experiment it is easiest to go to the file in Unreal engine program folder and using the link in the Full folder to run in windows file. After that
-you must download and unzip the folder to run the MyProject 2 exucutable on your own windows computer. 
+you must download and unzip the folder to run the MyProject 2 exucutable on your own windows computer. Once the program is launched the user will go through the obstacle course and
+is then timed, as well as marked for any mistakes made. This is repeated 10 times to get proper results
