@@ -14,7 +14,7 @@ is then timed, as well as marked for any mistakes made. This is repeated 10 time
 * Personal Windows Pc
 * Playstation 4 Controller
 * Keyboard and Mouse
-* Visual Studio Link to download: https://www.unrealengine.com/en-US
+* Visual Studio Link to download:https://visualstudio.microsoft.com/
 
 # Credits
 * Unreal Engine https://www.unrealengine.com/en-US
